@@ -1,0 +1,15 @@
+Step 1: mkdir hardhat project
+
+Step 2: cd hardhat project
+
+Step 3: npm init
+
+Step 4: npm install --save-dev hardhat
+
+Step 5: npx hardhat init
+
+Step 6: to open project in code editor  use command code .
+
+Step 7: open hardhat.config.js file
+
+Step 8: configure the file as per your need and save it  

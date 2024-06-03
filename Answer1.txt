@@ -1,0 +1,4 @@
+Hardhat is a javaScript Ethereum development enviroment for developing full-stack-blockchain applications.
+
+Hardhat helps blockchain developers to easy and automate the tasks of development and deployment of smart contracts, dApps
+to local Ethereum networks. 
